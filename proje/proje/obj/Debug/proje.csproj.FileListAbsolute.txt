@@ -1,0 +1,30 @@
+c:\users\hp\documents\visual studio 2015\Projects\proje\proje\bin\Debug\proje.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\proje\proje\bin\Debug\proje.exe
+c:\users\hp\documents\visual studio 2015\Projects\proje\proje\bin\Debug\proje.pdb
+c:\users\hp\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.exe
+c:\users\hp\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\proje\proje\obj\Debug\proje.Form2.resources
+C:\Users\hp\Desktop\DÖNEM\NDP YAZ döküman\ProjeTasarımödevi\proje\proje\bin\Debug\proje.exe.config
+C:\Users\hp\Desktop\DÖNEM\NDP YAZ döküman\ProjeTasarımödevi\proje\proje\obj\Debug\proje.exe
+C:\Users\hp\Desktop\DÖNEM\NDP YAZ döküman\ProjeTasarımödevi\proje\proje\obj\Debug\proje.pdb
+C:\Users\hp\Desktop\DÖNEM\NDP YAZ döküman\ProjeTasarımödevi\proje\proje\bin\Debug\proje.exe
+C:\Users\hp\Desktop\DÖNEM\NDP YAZ döküman\ProjeTasarımödevi\proje\proje\bin\Debug\proje.pdb
+C:\Users\hp\Desktop\DÖNEM\NDP YAZ döküman\ProjeTasarımödevi\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\DÖNEM\NDP YAZ döküman\ProjeTasarımödevi\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\hp\Desktop\DÖNEM\NDP YAZ döküman\ProjeTasarımödevi\proje\proje\obj\Debug\proje.Form2.resources
+C:\Users\hp\Desktop\DÖNEM\NDP YAZ döküman\ProjeTasarımödevi\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\hp\Desktop\DÖNEM\NDP YAZ döküman\ProjeTasarımödevi\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\ProjeTasarımödevi\proje\proje\bin\Debug\proje.exe.config
+C:\Users\hp\Desktop\ProjeTasarımödevi\proje\proje\obj\Debug\proje.exe
+C:\Users\hp\Desktop\ProjeTasarımödevi\proje\proje\obj\Debug\proje.pdb
+C:\Users\hp\Desktop\ProjeTasarımödevi\proje\proje\bin\Debug\proje.exe
+C:\Users\hp\Desktop\ProjeTasarımödevi\proje\proje\bin\Debug\proje.pdb
+C:\Users\hp\Desktop\ProjeTasarımödevi\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\ProjeTasarımödevi\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\hp\Desktop\ProjeTasarımödevi\proje\proje\obj\Debug\proje.Form2.resources
+C:\Users\hp\Desktop\ProjeTasarımödevi\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\hp\Desktop\ProjeTasarımödevi\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
